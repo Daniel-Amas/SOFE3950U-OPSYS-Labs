@@ -1,3 +1,6 @@
 [submodule "Lab2/OS_Lab2"]
 	path = Lab2/OS_Lab2
 	url = https://github.com/xJoney/OS_Lab2.git
+[submodule "OS_LAB3_SudokuSolutionValidator"]
+	path = OS_LAB3_SudokuSolutionValidator
+	url = https://github.com/Daniel-Amas/OS_LAB3_SudokuSolutionValidator.git
