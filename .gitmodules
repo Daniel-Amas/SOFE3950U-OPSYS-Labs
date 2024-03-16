@@ -4,3 +4,6 @@
 [submodule "OS_LAB3_SudokuSolutionValidator"]
 	path = OS_LAB3_SudokuSolutionValidator
 	url = https://github.com/Daniel-Amas/OS_LAB3_SudokuSolutionValidator.git
+[submodule "OS_LAB4_HOSTDispatcher"]
+	path = OS_LAB4_HOSTDispatcher
+	url = https://github.com/Daniel-Amas/OS_LAB4_HOSTDispatcher.git
