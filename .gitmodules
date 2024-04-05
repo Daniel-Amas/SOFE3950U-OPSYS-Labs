@@ -10,3 +10,6 @@
 [submodule "OS_LAB4_HostDispatcher"]
 	path = OS_LAB4_HostDispatcher
 	url = https://github.com/Daniel-Amas/OS_LAB4_HostDispatcher.git
+[submodule "OS_LAB5_BankersAlgorithm"]
+	path = OS_LAB5_BankersAlgorithm
+	url = https://github.com/Daniel-Amas/OS_LAB5_BankersAlgorithm.git
